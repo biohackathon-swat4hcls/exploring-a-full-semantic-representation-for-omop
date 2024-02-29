@@ -5,10 +5,11 @@
 
 ### Documenting existing clinical standards
 
+- SIO: https://github.com/MaastrichtU-IDS/semanticscience
 - OMOP: https://ohdsi.github.io/CommonDataModel/cdm54.html
-- FHIR:
-- SPHN:
-- CARE-SM:
+- FHIR: https://build.fhir.org/overview-arch.html
+- SPHN: https://www.biomedit.ch/rdf/sphn-schema/sphn
+- CARE-SM: https://github.com/CARE-SM/CARE-Semantic-Model
 
 - Common summary: https://docs.google.com/presentation/d/13aDKhzZT0wvwWIgPq9WrP7Ainv_6l-6qfhXwogLpVHE/
 
