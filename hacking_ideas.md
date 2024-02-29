@@ -11,3 +11,8 @@
 - CARE-SM:
 
 - Common summary: https://docs.google.com/presentation/d/13aDKhzZT0wvwWIgPq9WrP7Ainv_6l-6qfhXwogLpVHE/
+
+### Standards semantic interoperability
+
+- https://github.com/fhircat/FHIROntopOMOP
+- https://github.com/omoponfhir
