@@ -10,6 +10,7 @@
 - FHIR: https://build.fhir.org/overview-arch.html
 - SPHN: https://www.biomedit.ch/rdf/sphn-schema/sphn
 - CARE-SM: https://github.com/CARE-SM/CARE-Semantic-Model
+- Phenopackets: https://github.com/LUMC-BioSemantics/phenopackets-rdf-schema
 
 - Common summary: https://docs.google.com/presentation/d/13aDKhzZT0wvwWIgPq9WrP7Ainv_6l-6qfhXwogLpVHE/
 
