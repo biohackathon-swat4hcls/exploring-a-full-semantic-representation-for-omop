@@ -3,7 +3,7 @@
 - https://github.com/callahantiff/OMOP2OBO
 - https://github.com/vemonet/omop-cdm-owl
 
-### Document existing clinical standards
+### Documenting existing clinical standards
 
 - OMOP: https://ohdsi.github.io/CommonDataModel/cdm54.html
 - FHIR:
