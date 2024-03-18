@@ -1,10 +1,11 @@
 ---
-title: 'BioHackEU23 report: Template for the very long title'
-title_short: 'BioHackEU23 #26: unknown chemical substances'
+title: 'SWAT4HCLS23 Hack report: Explore a full semantic rfpresentation of OMOP'
+title_short: 'SWAT4HCLSHACK #10: semantic OMOP'
 tags:
-  - cheminformatics
-  - PubChem
-  - unknown chemical substances
+  - OMOP
+  - Ontologies
+  - Semantic
+  - Graph
 authors:
   - name: First Author
     affiliation: 1
