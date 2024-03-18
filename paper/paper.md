@@ -34,8 +34,7 @@ authors_short: First Author \emph{et al.}
 
 # Introduction
 
-As part of the BioHackathon Europe 2023, we here report...
-
+As part of the SWAT4HCLS 2024 BioHackathon, we set to explore what full semantic representation of OMOP could provide. OMOP is a widely used standard to represent Real World Data (RWD) in a standardized way. A significant efforts in its specification andsupporting processes relates to the standardization of ontologies. Howwever, these are intended to normalise categorical values. The structure of the model itself is represented as a relational model with limited attention to semantics. In this hackathon we set to explore how a full semantic representation could be achieved, and what it could entail.
 # Formatting
 
 This document use Markdown and you can look at [this tutorial](https://www.markdowntutorial.com/).
