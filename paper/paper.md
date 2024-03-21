@@ -7,11 +7,46 @@ tags:
   - Semantic
   - Graph
 authors:
-  - name: First Author
+  - name: Andrea Splendiani
+    orcid: 0000-0000-0000-0000
     affiliation: 1
-  - name: Last Author
+  - name: Alberto Labarga
     orcid: 0000-0000-0000-0000
     affiliation: 2
+  - name: Michel Dumontier
+    orcid: 0000-0000-0000-0000
+    affiliation: 2
+  - name: Christine Kakalou
+    orcid: 0000-0000-0000-0000
+    affiliation: 2
+  - name: Remzi Celebi
+    orcid: 0000-0000-0000-0000
+    affiliation: 2
+  - name: Harald Witte
+    orcid: 0000-0000-0000-0000
+    affiliation: 2
+      - name: Pantelis Natsiavas
+    orcid: 0000-0000-0000-0000
+    affiliation: 2
+  - name: Alban Gaignard
+    orcid: 0000-0000-0000-0000
+    affiliation: 2
+  - name: Pablo Alarcon Moreno
+    orcid: 0000-0000-0000-0000
+    affiliation: 2
+  - name: Achilleas Chytas
+    orcid: 0000-0000-0000-0000
+    affiliation: 2
+  - name: Shatvik ?
+    orcid: 0000-0000-0000-0000
+    affiliation: 2
+  - name: Ronald Cornet
+    orcid: 0000-0000-0000-0000
+    affiliation: 2
+  - name: Deepak Unni
+    orcid: 0000-0000-0000-0000
+    affiliation: 2
+    
 affiliations:
   - name: First Affiliation
     index: 1
@@ -20,9 +55,9 @@ affiliations:
 date: 8 November 2023
 cito-bibliography: paper.bib
 event: BH23EU
-biohackathon_name: "BioHackathon Europe 2023"
+biohackathon_name: "SWAT4HCLS BioHackathon 2024"
 biohackathon_url:   "https://biohackathon-europe.org/"
-biohackathon_location: "Barcelona, Spain, 2023"
+biohackathon_location: "Leiden, Netherlands, 2024"
 group: Project 26
 # URL to project git repo --- should contain the actual paper.md:
 git_url: https://github.com/biohackrxiv/publication-template
