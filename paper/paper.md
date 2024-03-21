@@ -74,71 +74,21 @@ As part of the SWAT4HCLS 2024 BioHackathon, we set to explore what full semantic
 
 This document use Markdown and you can look at [this tutorial](https://www.markdowntutorial.com/).
 
-## Subsection level 2
+## Werking thread: modeling RWD
 
-Please keep sections to a maximum of only two levels.
+In this thread, different representations of RWD have been overviewed (e.g.: OMOP, FHIR,...). Ideas is to define an upper ontolgy to properly model RWD, and some shapes expressions to validate data for conformance to this model.
+## Oveview of RWD models
+_>> Material from the slide deck edited at the hackathon_
+## Toward an upper model for RWD
+_>> Discussions on the upper model (Michele, Deepak ?)_
 
-## Tables and figures
+## Working thread, understanding the Semantic of OMOP
+_>> Here example findigs on the imprecise semantics of OMOP. E.g.: medicament start date could be the date of injection or prescription_
 
-Tables can be added in the following way, though alternatives are possible:
+## Benefit us "semantic OMOP" for OMOP use cases
+_>> Here we have the graph and some bits and scripts from connecting OMOP to molecular data: Andrea, Cythas_
 
-Table: Note that table caption is automatically numbered and should be
-given before the table itself.
-
-| Header 1 | Header 2 |
-| -------- | -------- |
-| item 1 | item 2 |
-| item 3 | item 4 |
-
-A figure is added with:
-
-![Caption for BioHackrXiv logo figure](./biohackrxiv.png)
-
-# Other main section on your manuscript level 1
-
-Lists can be added with:
-
-1. Item 1
-2. Item 2
-
-# Citation Typing Ontology annotation
-
-You can use [CiTO](http://purl.org/spar/cito/2018-02-12) annotations, as explained in [this BioHackathon Europe 2021 write up](https://raw.githubusercontent.com/biohackrxiv/bhxiv-metadata/main/doc/elixir_biohackathon2021/paper.md) and [this CiTO Pilot](https://www.biomedcentral.com/collections/cito).
-Using this template, you can cite an article and indicate _why_ you cite that article, for instance DisGeNET-RDF [@citesAsAuthority:Queralt2016].
-
-The syntax in Markdown is as follows: a single intention annotation looks like
-`[@usesMethodIn:Krewinkel2017]`; two or more intentions are separated
-with colons, like `[@extends:discusses:Nielsen2017Scholia]`. When you cite two
-different articles, you use this syntax: `[@citesAsDataSource:Ammar2022ETL; @citesAsDataSource:Arend2022BioHackEU22]`.
-
-Possible CiTO typing annotation include:
-
-* citesAsDataSource: when you point the reader to a source of data which may explain a claim
-* usesDataFrom: when you reuse somehow (and elaborate on) the data in the cited entity
-* usesMethodIn
-* citesAsAuthority
-* citesAsEvidence
-* citesAsPotentialSolution
-* citesAsRecommendedReading
-* citesAsRelated
-* citesAsSourceDocument
-* citesForInformation
-* confirms
-* documents
-* providesDataFor
-* obtainsSupportFrom
-* discusses
-* extends
-* agreesWith
-* disagreesWith
-* updates
-* citation: generic citation
-
-
-# Results
-
-
-# Discussion
+# Next steps
 
 ...
 
