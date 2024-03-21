@@ -25,7 +25,7 @@ authors:
   - name: Harald Witte
     orcid: 0000-0000-0000-0000
     affiliation: 2
-      - name: Pantelis Natsiavas
+  - name: Pantelis Natsiavas
     orcid: 0000-0000-0000-0000
     affiliation: 2
   - name: Alban Gaignard
